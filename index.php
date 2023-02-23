@@ -18,7 +18,7 @@
     <table align="center" border="1px solid blue;"> 
 		</tr> 
               <th> MaSV </th> 
-			  <th> Họ lót </th> 
+			  <th> H lót </th> 
 			  <th> Tên </th> 
               <th> Ngày Sinh </th> 
               <th> Giới Tính </th> 
